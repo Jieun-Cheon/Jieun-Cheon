@@ -1,8 +1,10 @@
 ## Welcome to my Github Profile!👋
 * Data Scientist in the security industry
-* Analytics, CRM, Machine learning
+* Master of Food Science and Biotechnology from Kyunghee University 
+* Master of Applied Data Science from Sungkyunkwan University
 
 ## Interest
+* CRM
 * Feature store
 * MLOps(Machine Learning Opration)
 
