@@ -1,5 +1,10 @@
-### 데이터로 일하고 세상을 바라보는 천지은입니다.👩🏻‍💻
+## Welcome to my Github Profile!👋
+* Data Scientist in the security industry
+* Analytics, CRM, Machine learning
 
+## Interest
+* Feature store
+* MLOps(Machine Learning Opration)
 
 <h2> Tech stack📚 </h2>
 
@@ -18,7 +23,7 @@
 ![Notion](http://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white)
 
-<h2> Git Stats 📈 </h2>
+<h2> My Stats 📈 </h2>
   
 ![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jieun-Cheon&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jieun-Cheon&langs_count=5)
