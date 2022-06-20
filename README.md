@@ -1,16 +1,24 @@
-### Hi there 👋
+### 데이터로 일하고 세상을 바라보는 천지은입니다.👩🏻‍💻
 
-<!--
-**Jieun-Cheon/Jieun-Cheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> Tech stack📚 </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Presto](https://img.shields.io/badge/Presto-5890FF?style=for-the-badge&logo=Presto&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+<br>
+![Tableau](http://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=black)
+<br>
+![Hive](http://img.shields.io/badge/-Hive-FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=black)
+<br>
+![Git](http://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Notion](http://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white)
+
+<h2> Git Stats 📈 </h2>
+  
+![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jieun-Cheon&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jieun-Cheon&langs_count=5)
