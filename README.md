@@ -4,8 +4,8 @@
 * Master of Applied Data Science from Sungkyunkwan University
 
 ## Interest
-* CRM
-* Feature store
+* CRM(Customer Relationship Management) customer data analysis
+* Makes feature store
 * MLOps(Machine Learning Opration)
 
 <h2> Tech stack📚 </h2>
